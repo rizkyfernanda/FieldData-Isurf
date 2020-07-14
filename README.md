@@ -16,4 +16,4 @@ Tiap file (CSV atau JSON) ada 5 atribut, ngikutin yang ada di erd dari papernya 
 
 Tiap data seolah-olah diupdate **tiap 1 jam**.
 
-Silakan bertanya lewat line: mrizkyfauzifernanda / WA:+62 812 9868 5338 untuk bertanya lebih lanjut :)
+Silakan bertanya lewat line / WA untuk bertanya lebih lanjut :)
